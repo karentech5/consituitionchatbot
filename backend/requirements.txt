@@ -1,0 +1,26 @@
+# --- Web Server (FastAPI) ---
+fastapi
+uvicorn
+
+# --- LangChain Core & Ecosystem ---
+langchain
+langchain-core
+langchain-community
+langchain-classic
+langchain-text-splitters
+
+# --- Integrations & Models ---
+langchain-huggingface
+langchain-google-genai
+sentence-transformers
+tiktoken
+
+# --- Vector Store & Document Loaders ---
+chromadb
+pypdf
+
+# --- Search Algorithms ---
+rank_bm25
+
+# --- Environment Management ---
+python-dotenv
